@@ -10,3 +10,6 @@
 /success       /
 /failure       /
 /pending       /
+/shop           /success
+/shop        /failure
+/shop        /pending
