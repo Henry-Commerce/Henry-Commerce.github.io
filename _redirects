@@ -1,11 +1,5 @@
 # Redirects from what the browser requests to what we serve
 /              /
-/products/*    /
-/products/*    /login
-/login         /
+/products/*    /products/*
+
 /login         /login
-
-
-/blog/my-post.php  /blog/my-post
-/news              /blog
-/cuties            https://www.petsofnetlify.com
