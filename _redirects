@@ -1,0 +1,12 @@
+# Redirects from what the browser requests to what we serve
+/              /
+/products/*    /
+/login         /
+/register      /
+/shop          /
+/user/*         /
+/admin/*        /
+/team          /
+/success       /
+/failure       /
+/pending       /
