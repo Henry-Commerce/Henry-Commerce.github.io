@@ -7,6 +7,6 @@
 /user/*         /
 /admin/*        /
 /team          /
-/success       /
-/failure       /
-/pending       /
+/shop?collection_status=success         /success
+/shop?collection_status=failure         /failure
+/shop?collection_status=pending         /pending
