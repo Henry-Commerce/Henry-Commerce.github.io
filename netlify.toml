@@ -1,0 +1,6 @@
+[[redirects]]
+  from = "/admin/*"
+  to = "/admin"
+  status = 204
+  force = false
+
