@@ -1,15 +1,2 @@
 # Redirects from what the browser requests to what we serve
-/              /
-/* /Page404.html 404
-/products/*    /
-/login /
-/register      /
-shop          /
-/user/*         /
-/admin/*        /
-/team          /
-/shop?collection_status=success         /success
-/shop?collection_status=failure         /failure
-/shop?collection_status=pending         /pending
-
-/collection_id=:collection_id  /failure:collection_id  301
+/*              /
