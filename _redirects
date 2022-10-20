@@ -12,4 +12,4 @@ shop          /
 /shop?collection_status=failure         /failure
 /shop?collection_status=pending         /pending
 
-/ collection_id=:collection_id  /failure:collection_id  301
+/collection_id=:collection_id  /failure:collection_id  301
