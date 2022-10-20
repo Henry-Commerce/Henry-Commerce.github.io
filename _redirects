@@ -4,7 +4,7 @@
 /products/*    /
 /login /
 /register      /
-/shop          /
+shop          /
 /user/*         /
 /admin/*        /
 /team          /
