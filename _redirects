@@ -1,6 +1,6 @@
 # Redirects from what the browser requests to what we serve
 /              /
-/* /Page404.jsx 404
+/* /Page404.html 404
 /products/*    /
 /login         /
 /register      /
