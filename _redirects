@@ -13,5 +13,5 @@
 /user/* /
 
 
-/collection_id=:collection_id /failure:collection_id  301
-/collection_id=:collection_id /success:collection_id  204
+/ /failure:collection_id
+/ /success:collection_id
