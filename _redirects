@@ -11,7 +11,6 @@
 /register /
 /shop /
 /user/* /
-/admin/* /
 
 
 /collection_id=:collection_id /failure:collection_id  301
